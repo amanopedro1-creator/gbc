@@ -18,6 +18,6 @@
   - 10AM - [MATH 1162 - Math for Computer Technology I](https://learn.georgebrown.ca/d2l/home/436887)
   - 12PM - [COMM 2000 - Communcation Across Contexts](https://learn.georgebrown.ca/d2l/home/436781)
 - Thursday
-  Labs for previous classes
+  - Labs for previous classes
 - Friday
-  Labs for previous classes
+  - Labs for previous classes
